@@ -1,4 +1,4 @@
-# Title:  [subject of the presentation].
+# Title:  [subject of the presentation]
 
 [You should briefly introduce the subject of the presentation here]
 
