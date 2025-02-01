@@ -1,6 +1,6 @@
-# Title: Ethernet
+# Ethernet Protocol
 
 An Introduction to Ethernet Protocol and its pinout, signaling, encoding, error detection, etc... .
 
 ### Presentation Link: [Link of your presentation video]
-### Name: [Your name]
+### Contributor: [Sayyed Ali Tayyeb](https://github.com/satayyeb/)
