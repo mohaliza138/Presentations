@@ -1,4 +1,4 @@
-![PATA-A-Look-Back-at-Parallel-ATA-Technology (4)](https://github.com/user-attachments/assets/759a86c7-b432-4768-831a-b0b952ddd634)
+![PATA-A-Look-Back-at-Parallel-ATA-Technology (4)](https://github.com/user-attachments/assets/44efeec8-3709-4013-a832-996c5742816b)
 
 # PATA: A Look Back at Parallel ATA Technology  
 
