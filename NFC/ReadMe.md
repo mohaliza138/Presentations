@@ -7,15 +7,14 @@ Near Field Communication (NFC) is a short-range wireless communication technolog
 
 ### Documents
 
-📄 You can download the NFC Protocol Document here:NFC_Protocol.pdf
+📄 You can download the NFC Protocol Document here:[NFC Document](https://github.com/Sharif-University-ICD/Presentations/blob/main/NFC/NFC%20-%20Document.pdf)
+
 
 ### Presentation
 
-🎬 Click the link below to watch the Presentation Video:Watch Video
+🎬 Click the link below to watch the Presentation Video:[NFC Presentation Video](https://github.com/Sharif-University-ICD/Presentations/blob/main/NFC/NFC%20-%20Presentation.mp4)
 
 📊 You can also download the Original PowerPoint Presentation and its PDF Version:
 
-NFC_Presentation.pptx
-
-NFC_Presentation.pdf
-
+[NFC Presentation PDF](https://github.com/Sharif-University-ICD/Presentations/blob/main/NFC/NFC%20-%20Presentation.pdf)
+[NFC Presentation PPTX](https://github.com/Sharif-University-ICD/Presentations/blob/main/NFC/NFC%20-%20Presentation.pptx)
