@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/686478e6-019b-499d-acd9-130872f72e8a)
+![PATA-A-Look-Back-at-Parallel-ATA-Technology (4)](https://github.com/user-attachments/assets/759a86c7-b432-4768-831a-b0b952ddd634)
+
 # PATA: A Look Back at Parallel ATA Technology  
 
 ## 🚀 Introduction  
