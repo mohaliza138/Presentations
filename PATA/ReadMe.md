@@ -13,7 +13,7 @@ In this presentation, we explore **Parallel ATA (PATA)**, the technology that wa
 
 
 ## 🎥 Presentation Link  
-[![Watch the presentation on Aparat](https://img.shields.io/badge/Watch%20on-Aparat-FF0000?style=for-the-badge&logo=aparat&logoColor=white)](https://www.aparat.com/v/rut927m)  
+[![Watch the presentation on Aparat]([https://img.shields.io/badge/Watch%20on-Aparat-FF0000?style=for-the-badge&logo=aparat&logoColor=white)](https://www.aparat.com/v/rut927m](https://aparat.com/v/lkk8uiu))  
 
 
 
