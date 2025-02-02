@@ -14,11 +14,10 @@ PROFIBUS (Process Field Bus) is a widely used industrial communication protocol 
 
 
 
-## 📚 Additional Resources
+
 For a detailed presentation on PROFIBUS, refer to the following link:  
 ▶️ [PROFIBUS Presentation](https://youtu.be/9FaVNqOoXZQ)
 
-## 👤 About the Author
 **Name:** Abolfazl Daniali  
 
 
