@@ -18,3 +18,6 @@ Near Field Communication (NFC) is a short-range wireless communication technolog
 
 [NFC Presentation PDF](https://github.com/Sharif-University-ICD/Presentations/blob/main/NFC/NFC%20-%20Presentation.pdf)
 [NFC Presentation PPTX](https://github.com/Sharif-University-ICD/Presentations/blob/main/NFC/NFC%20-%20Presentation.pptx)
+
+# Author
+Amin Davoodabadi
