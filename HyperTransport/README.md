@@ -6,7 +6,7 @@ This repository contains a presentation on the **HyperTransport Protocol**, a hi
 ## Presentation Video
 You can watch the presentation on **Aparat** using the following link:
 
-[![Watch Video](https://img.shields.io/badge/Watch%20on-Aparat-red)](https://www.aparat.com/v/agp3j44)
+[![Watch Video](https://img.shields.io/badge/Watch%20on-Aparat-red)]([https://www.aparat.com/v/agp3j44](https://aparat.com/v/uaw2674))
 
 ## Topics Covered
 - Introduction to HyperTransport (HT)
