@@ -1,7 +1,6 @@
 # **TCP Protocol**  
 A structured technical exploration of the Transmission Control Protocol (TCP).  
 
-## **What’s Inside?**  
 - **Core Concepts:** Reliable, connection-oriented, and full-duplex communication.  
 - **Key Features:** Three-way handshake, error detection, retransmission, and flow control.  
 - **Congestion Control:** Mechanisms like slow start and fast recovery.  
