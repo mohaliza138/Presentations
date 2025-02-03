@@ -10,6 +10,6 @@ A structured technical exploration of the Transmission Control Protocol (TCP).
 ## **Presentation Resources**  
 📑 **Presentation Slides:** [Find Here](https://github.com/Sharif-University-ICD/Presentations/blob/main/TCP/Slides/TCP-Amirkasra.pdf)
 
-🎥 **Presentation Video:** [Watch Here](https://drive.google.com/file/d/19X_9QnLulth8O6WRu4mRzx1KvMqxI2Ya/view?usp=share_link)  
+🎥 **Presentation Video:** [Watch Here](https://www.aparat.com/v/dotv668)  
 
 **Name:** Amirkasra Ahmadi  
