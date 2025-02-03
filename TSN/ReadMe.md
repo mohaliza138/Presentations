@@ -1,8 +1,9 @@
-
 # Time-Sensitive Networking (TSN)  
 
+![bsm-alrhmn-alrhym](https://github.com/user-attachments/assets/12091546-ef36-49c2-8778-9e81a880dc17)
+
 ##  Introduction  
-Time-Sensitive Networking (TSN) is a revolutionary technology that is transforming industrial automation and other demanding applications. TSN enhances the capabilities of standard Ethernet networks by providing deterministic performance and real-time capabilities, paving the way for more efficient, reliable, and intelligent systems.  
+In this repository we talk about that Time-Sensitive Networking (TSN) is a revolutionary technology that is transforming industrial automation and other demanding applications. TSN enhances the capabilities of standard Ethernet networks by providing deterministic performance and real-time capabilities, paving the way for more efficient, reliable, and intelligent systems.  
 
 ##  Topics  
 - Key Features and Benefits of TSN
@@ -19,4 +20,6 @@ Time-Sensitive Networking (TSN) is a revolutionary technology that is transformi
  
 ##  Name  
 **Atefeh Ghandehari**  
+
+
 
